@@ -83,23 +83,11 @@
 
 
 
-
-
-
-
-
-
-
-
 ### 本书的特点
 
 会有案例
 
 申请学校是一个概率性事件。
-
-
-
-
 
 
 
@@ -120,3 +108,18 @@
 ## 伯明翰大学2021中国行前说明会邀请函
 
 待补充
+
+
+
+
+
+
+
+本书目录：
+
+/1-the-right-choices.md
+/2-the-right-materials.md
+/3-the-right-application.md
+/4-the-right-communication.md
+/5-your-road-to-success.md
+
