@@ -117,9 +117,11 @@
 
 本书目录：
 
-/1-the-right-choices.md
-/2-the-right-materials.md
-/3-the-right-application.md
-/4-the-right-communication.md
-/5-your-road-to-success.md
+
+
+[	第一章：选学校定项目	](	1-the-right-choices.md	)
+[	第二章：准备申请材料	](	2-the-right-materials.md	)
+[	第三章：递交网上申请	](	3-the-right-application.md	)
+[	第四章：应对申请结果	](	4-the-right-communication.md	)
+[	第五章：充分利用留学机会	](	5-your-road-to-success.md	)
 
