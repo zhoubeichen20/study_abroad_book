@@ -20,9 +20,9 @@
 
 [	第三章：递交网上申请	](	3-the-right-application.md	)
 
-[	第四章：应对申请结果	](	4-the-right-communication.md	)
+[	第四章：沉着合理沟通	](	4-the-right-communication.md	)
 
-[	第五章：充分利用留学机会	](	5-your-road-to-success.md	)
+[	第五章：最大化留学收益	](	5-your-road-to-success.md	)
 
 
 
