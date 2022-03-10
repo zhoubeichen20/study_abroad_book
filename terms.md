@@ -1,10 +1,13 @@
--  Full-Time (FT)
--  
+- Full-Time (FT)
 
--  Part-Time (PT)
--  
+  
 
--  Flexible (FX)
--  
+- Part-Time (PT)
+
+  
+
+- Flexible (FX)
+
+  
 
 -  Distance Learning (DL)
