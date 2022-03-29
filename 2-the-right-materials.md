@@ -36,6 +36,10 @@
 
 
 
+![Grading scheme tamplate](2-the-right-materials.assets/Grading scheme tamplate.jpg)
+
+
+
 ![image-20210602095921265](2-the-right-materials.assets/image-20210602095921265-2599164.png)
 
 
