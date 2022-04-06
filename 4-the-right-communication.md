@@ -4,6 +4,10 @@
 
 在这一章，我们讲一下申请之后你可能会遇到的问题，需要做的申请。很多同学会很忐忑，担心自己没有理解清楚招生官的意思。事实也如此，我经常发现英语不是很好的同学不能很好地理解招生官的邮件，用翻译软件翻译出来的内容也有时候会很 misleading。
 
+另外，我也想鼓励同学们多用自己的语言来和招生官沟通，而不是直接套用模板。At the very least, (至少至少) 你应该尽可能地调整你使用的模板，让它读起来没有那么生硬及明显。招生官会收到很多邮件，对于模板他们会觉得不被尊重；这样会影响他们处理你的申请和问询的态度以及结果。很多中国同学（当然我不知道印度同学是否会这样）会网上找模板，然后复制粘贴进去邮件。这样其实很不好。己所不欲勿施于人，如果我们不希望收到招生官的模板回复，我们也不应该给他们发模板邮件。
+
+同时，从现在开始就挑战自己用英文写作，开始用英文和海外沟通，对你来说是很好的锻炼机会。拿到 offer 后你还有很多地方要用英文沟通，包括你的导师等等。提前锻炼自己的英文沟通能力有好处。当然我也可以理解一些同学的担心，想要在拿到 offer 前求稳，担心自己的措辞出错，把 offer 丢了。这个时候，如果你无法获得有经验的人的帮助，那么使用模板也是可以的。
+
 
 
 ### 我发现申请系统里面我填错了信息，想要修改，怎么办？
@@ -40,13 +44,9 @@
 
 Dear Admissions,
 
-
-
 Due to some technical issues, there seems to be some wrong information/documents in my application. 
 
 I would really appreciate if you could help me correct my application. 
-
-
 
 Here are the specific items to be corrected: 
 
@@ -54,21 +54,13 @@ Here are the specific items to be corrected:
 2. My latest IELTS report is attached in the email.
 3. My updated CV is attached in the email.  
 
-
-
 I understand that it is the student's reponsiblity to make sure they submit the right application; but while I double checked every details of my application, somehow these errors were just so difficult to find out.
 
 If you could spend a few minutes on this, you would really make a difference in my life.  
 
-
-
 Thanks,
 
-
-
 Grace Li
-
-
 
 
 
@@ -200,7 +192,33 @@ LSE 说得很清楚，除非是极端的特殊情况，不允许在入学后（E
 
 
 
-### Tips
+### UCL 的项目一个项目要求我毕业至少 85 分的绩点，我最后毕业只有 84 分怎么办？
+
+第一章选校的时候我们说过，UCL 的官网是「一刀切」要求所有申请要求为 2：1 学位的项目的中国学生绩点达到 85 分以上。那么你最后只有 84 分怎么办呢？
+
+可以尝试 argue。
+
+你可以说学校的评分标准很严格，自己的相关的专业分数已经达到了要求，疫情影响了自己的学习（需要有比较具体的证据）等等。
+
+在有些情况下，UCL 的招生官会考虑，让你以稍微一点的分数入学。这么做也许可行的原因是，UCL 很大，每个项目的录取权利下方到了各个院系。有些院系的招生官比较好说话，有些则不一定。所以，我们可以放心地尝试。
+
+根据经验，你最好在毕业后，最终的成绩单出来了再去和学校请求通融。不然对方很难直接说会允许你以目前的分数入学。
+
+比如有一位某 211 大学在读的同学绩点是 84 分，但是 offer 的要求是 85 分。我们分别联系了学院和 UCL 的综合招生办公室。得到的回复（如下）基本上是无法在未拿到最终成绩单的时候修改 offer 的条件，建议等到毕业后再上传，届时学院会综合考量。字里行间也就透露着通融的可能。
+
+
+
+![image-20220406101416773](4-the-right-communication.assets/image-20220406101416773.png)
+
+![image-20220406101816685](4-the-right-communication.assets/image-20220406101816685.png)
+
+
+
+目前我们有一部分 UCL argue 成功的案例。
+
+
+
+**Tips**
 
 担心打电话给海外院校电话费很贵吗？Rest assured! 
 

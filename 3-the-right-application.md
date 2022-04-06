@@ -1,4 +1,4 @@
-## 递交申请
+## 第三章 递交申请
 
 
 
@@ -250,7 +250,7 @@ Contact 结束之后就是 Programme 的信息。
 
 
 
-#### Qualification
+### Qualification
 
 接下来就是 Qualification 专业背景。
 
@@ -556,9 +556,84 @@ Characters
 
 
 
+**英语语言成绩**
+
+在申请英国的绝大部分研究生项目时，英语成绩不是必填的。一般来讲，你会有几个选择：
+
+* 我已经有语言成绩，我会上传（这个选项会让你上传成绩和成绩单）
+* 我已经预定了一次英语考试（这个选项会让你填写预定的考试的时间）
+* 我暂时还没有预定考试（这个选项会让你直接进入下一步）
+
+请注意，除了第一个选项可能对你的申请有一点点影响外，其他对你都没有什么影响。我们的建议是选择第二个，然后选择一个比较靠后的日期作为考试时间，从一定程度上像招生官展示你的 seriousness--即你对这个申请的认真态度。
+
+如果你在申请的过程中，遇到了不填就无法进入到下一步的情况，那么很可能是哪里填错了。这个时候，回去检查一下其他的信息再看看。如果学校的系统要求你必须上传一个文件才能进入到下一步，而项目的网站或者小秘告诉你说可以先不上传成绩，那么你可以自己做一个简单的 PDF 当做成绩单传上去，这样你就可以进入到下一步了。
+
+PDF 文件要解释你为什么这么做，你为什么不能提供，以及你从哪知道可以这么操作。（看情况，不一定都包含）
+
+
+
+比如：
+Dear Admission Office, 
+
+I am not able to upload a valid English language certificate at this moment as taking a test is extremely difficult during Covid-19 (或者：My academic study in the final year/semester is quite challenging.) But I have booked a test scheduled on 17th June 202X. (写一个比较靠后的日期)
+
+According to your website (or XXX from the admission office), I can upload the copy of the certificate at a later date. So I am using this explanation in the application system so I can complete the online applicatio. 
+
+Thank you. 
+
+XXX
+
+
+
+对于爱丁堡大学，在招生办公室开始审理后，申请系统里面会提示说英语语言证明未提交，然后标注一个大大的叹号。
+
+不用担心，你的申请会正常审理，标注了叹号不意味着他们需要你提交才能继续审理。（同时你也可以看到，这里也说毕业证没有上传。但是不用担心，系统也说了，可以忽略这个信息。毕竟，这个同学也没有毕业，无法提供这个材料。）
+
+![wecom-temp-3b6111f78d369490a616788294cd071d](3-the-right-application.assets/wecom-temp-3b6111f78d369490a616788294cd071d.png)
+
+
+
+如果在申请的时候，你有一个过期了的，或者说没有达到要求的语言成绩，你应该上传吗？
+
+我们的建议是，上传。
+
+
+
+另外，如果你已经拿到 conditional offer，并且最近考试的分数并没有达到要求，那么你仍然可以上传已有的英语成绩单到系统里面。有个时候，学校可能会给一些通融 (concession)。比如，有一个学生的雅思成绩和学校的要求如下：
+
+![WechatIMG1736](3-the-right-application.assets/WechatIMG1736.jpeg)
+
+
+
+总分差了 0.5，听力也差了 0.5。
+
+
+
+有一天学生收到格拉斯哥大学的邮件说如果你还没有完全达到你的 offer 的录取要求，那么你仍然可以上传已有的材料，学校会考虑给你推迟入学或者换到一个要求更低的项目。
+
+![WechatIMG483](3-the-right-application.assets/WechatIMG483-9149324.jpeg)
+
+
+
+学生（Lusy）于是上传了一个听力差 0.5 分的雅思成绩单，过了不久，申请系统直接显示 completed，意味着符合要求的语言成绩已经上传完成。
+
+![WechatIMG490](3-the-right-application.assets/WechatIMG490.jpeg)
+
+
+
+怎么会有这样的好事呢？Lusy 本来还想再继续鏖战雅思，看到这个非常开心。但是我们也担心是学校弄错了，那么到时候学校意识到这个错误的时候，Lusy 可能去不了，因为学校这边愿意将错就错，英国移民局那边也可能会遇到麻烦。抱着稳妥的心态，我们邮件问了下学校，得到了非常肯定且积极的回复：
+
+![WechatIMG522](3-the-right-application.assets/WechatIMG522.jpeg)
+
+
+
+恭喜Lusy 不用再考雅思了！不过说实话，我们仍然不确定回复我们的这个人有没有深入去看这个 case，Ta 也许只是觉得系统说完成了那就完成了，Ta 没有必要去推翻其他同事的决定。不管怎么样，Lusy 现在已经尽到了询问确认的义务。如果之后发生任何事情，学校要收回 unconditional offer 或者Lusy 在英国移民局遇到了麻烦，Lusy 会有权利要求学校赔偿相关损失。
+
+对于其他大学，你也可以试试先上传已有的成绩单，不管是否达到了要求。
+
+
+
 **关于 HKU，CUHK 和 IC的申请**
-
-
 
 HKU商学院 （2022 Fall 申请季）
 
@@ -596,8 +671,6 @@ HKU 其他学院
 
 
 
-
-
 香港中文大学（CUHK）
 
 CUHK 的申请很正常，除了推荐信。你在填写申请的时候，会找不到地方填写推荐人信息。你没有看错哦。CUHK 的系统是只有在你提交了全部的材料和信息之后，交了申请费后，再登录回去系统，会看到一个 tab 叫做 add referee。我想你现在应该知道怎么做了 :)
@@ -612,9 +685,15 @@ IC 的申请也是，填写了信息之后，缴费后会出现上传文件和�
 
 
 
-**什么时候有结果？** 
+### 什么时候有结果？
 
-根据北辰学长的经验，最快的学生大概三个工作日就拿到了 offer，也有等了七八个月的。
+根据北辰学长的经验，最快的学生大概三个工作日就拿到了 offer，也有等了七八个月的。一般来说，学校官方的承诺是 4-6 个星期，如果过了这么久你还没有收到结果，那么你可以邮件或者电话问一下招生办公室。有的学校，比如 UCL，爱丁堡，华威会提前邮件告知学生，录取结果可能一时半会出不来。
 
-大家申请的时候最好用 Outlook 或者 Gmail 邮箱，这样学校有了消息能够第一时间收到。
+![image-20220406094038077](3-the-right-application.assets/image-20220406094038077.png)
+
+UCL 邮件告诉申请人，申请还在审理中，一时半会出不来，同时也不要联系招生办公室，因为这样反而会延缓审理进程。
+
+
+
+大家申请的时候最好用 Outlook 或者 Gmail 邮箱，这样学校有了消息能够第一时间收到。并且也要时常查看垃圾箱，说不定一封梦校的录取就静静躺在垃圾箱里。
 
