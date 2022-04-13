@@ -20,6 +20,26 @@
 
 我们很感动。
 
+另外，有一个同学的 KCL 申请填错了自己的 last name 和 first name, 后来我们帮助他发邮件联系学校修改也成功拿到了录取。
+
+2 月 8 日提交的申请，并且附上了护照。
+
+![image-20220409105449544](4-the-right-communication.assets/image-20220409105449544.png)
+
+
+
+一周之后招生办的人回复说姓名已经修改好。 
+
+![image-20220409105608307](4-the-right-communication.assets/image-20220409105608307.png)
+
+
+
+一个月之后，顺利拿到 offer 。
+
+
+
+![image-20220409105734190](4-the-right-communication.assets/image-20220409105734190.png)
+
 
 
 所以，填错信息的时候，如果是重要的信息，那么需要联系学校尽快修改，如果不那么重要，可以不用修改。
@@ -60,7 +80,7 @@ If you could spend a few minutes on this, you would really make a difference in 
 
 Thanks,
 
-Grace Li
+Grace Zhang
 
 
 
