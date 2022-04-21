@@ -709,7 +709,7 @@ IC 不支持在递交完申请后添加额外的项目。
 
 
 
-![KCL questionnaire](3-the-right-application.assets/KCL questionnaire.png)
+![KCL-questionnaire](3-the-right-application.assets/KCL-questionnaire.png)
 
 
 
