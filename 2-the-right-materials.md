@@ -548,6 +548,24 @@ UCL 对文书的一般要求：
 
 
 
+**关于 LSE 的推荐信邮箱要求**
+
+我们有一个案例，申请LSE 的时候，其中一个推荐人用的是 Outlook 邮箱。
+
+![LSE non EDU rl](2-the-right-materials.assets/LSE non EDU rl.jpg)
+
+后面学生拿到 offer 后，LSE 给的其中一个条件是要求上传一封「官方」的推荐信。
+
+![LSE RL con offer](2-the-right-materials.assets/LSE RL con offer.jpg)
+
+我们让老师把准备好的推荐信 PDF 发送到 LSE 的邮箱（graduate.documents@lse.ac.uk）后，该 offer 条件顺利满足。
+
+![reference ok message](2-the-right-materials.assets/reference ok message.jpg)
+
+
+
+
+
 电话
 
 极少数情况下学校会通过电话联系推荐人。在填写推荐人的信息的时候，电话一栏经常是必填的。我们建议填写推荐人的工作电话，固定电话，而不是私人电话。因为固定电话也显得更加官方，正式。有同学可能会担心，老师不一定时长在办公室，固定电话经常会漏接，万一招生官打电话过来没有接到怎么办？这个没有关系的，一般打电话的不是招生官，而是招生办公室的秘书，如果一次没有打通，他们通常会多打几次。同时，他们也很清楚，老师也有自己的事情要忙，不可能一直守在电话旁。
